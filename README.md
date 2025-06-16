@@ -48,7 +48,8 @@ python loader.py
 
 ## 🔗 Useful Links
 
-- https://t.me/baphometuniversity
+- Telegram: https://t.me/baphometuniversity
+- Youtube: (https://youtu.be/NLEI8p-fDCk?si=ahe6k6ZxS8-vBUaD)
 
 - 🖼️ Image Preview: 
 ---
