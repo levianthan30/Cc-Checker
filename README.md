@@ -3,7 +3,7 @@
 **CCN Checker** is a simple Python-based tool designed to validate Credit Card Numbers (CCNs) quickly and efficiently. It provides a clean terminal output and categorizes the results for easy analysis.
 
 ![Tool Preview]
----
+
 (https://github.com/levianthan30/Cc-Checker/blob/main/index.png)
 
 ---
