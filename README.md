@@ -4,7 +4,7 @@
 
 ![Tool Preview]
 
-(https://github.com/levianthan30/Cc-Checker/blob/main/index.png)
+![index.png](https://github.com/levianthan30/Cc-Checker/blob/main/index.png)
 
 ---
 
@@ -50,7 +50,6 @@ python loader.py
 
 - t.me/baphometuniversity
 
-(https://github.com/https://github.com/levianthan30/Cc-Checker/blob/main/index.png)
 - 🖼️ Image Preview: 
 ---
  ![index.png](https://github.com/levianthan30/Cc-Checker/blob/main/index.png)
